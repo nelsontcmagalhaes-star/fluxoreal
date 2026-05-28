@@ -5,11 +5,11 @@
 @layer base {
   :root {
     /* ── Paleta FluxoReal ──────────────────────────────────────
-       Primary  : #C98A42  Âmbar dourado   → HSL  32 55% 52%
-       Success  : #5A7E9E  Azul aço        → HSL 208 27% 49%
-       Destruct.: #A95821  Terracota       → HSL  24 67% 40%
-       Neutral  : #757050  Oliva           → HSL  52 19% 39%
-       Accent   : #FAD4D8  Rosa suave      → HSL 354 79% 91%
+       Primary  : #C98A42  Âmbar dourado      → HSL  32 55% 52%
+       Success  : #8BA552  Verde oliva claro  → HSL  78 32% 48%
+       Destruct.: #A95821  Terracota          → HSL  24 67% 40%
+       Neutral  : #757050  Oliva              → HSL  52 19% 39%
+       Accent   : #FAD4D8  Rosa suave         → HSL 354 79% 91%
     ──────────────────────────────────────────────────────────── */
 
     --background: 33 25% 96%;
@@ -29,7 +29,7 @@
     --accent-foreground: 25 30% 10%;
     --destructive: 24 67% 40%;
     --destructive-foreground: 0 0% 100%;
-    --success: 208 27% 49%;
+    --success: 78 32% 48%;
     --success-foreground: 0 0% 100%;
     --warning: 32 55% 52%;
     --warning-foreground: 0 0% 100%;
